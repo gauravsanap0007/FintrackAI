@@ -116,6 +116,23 @@ Open the local URL printed by Vite, usually `http://localhost:5173/`.
 
 Ensure the frontend API configuration points to the running backend.
 
+## Application Screenshots
+
+### Dashboard
+![FintrackAI Dashboard](docs/screenshots/Dashboard.png)
+
+### Transactions
+![FintrackAI Transactions](docs/screenshots/Transactions.png)
+
+### Budgets
+![FintrackAI Budgets](docs/screenshots/Budgets.png)
+
+### Financial Goals
+![FintrackAI Goals](docs/screenshots/Goals.png)
+
+### AI Assistant
+![FintrackAI AI Assistant](docs/screenshots/AIAssistant.png)
+
 ## Environment Configuration
 
 Use `.env.example` to identify the configuration variables required by the application. Set your own development values and configure database and AI credentials where needed.
@@ -153,6 +170,7 @@ Do not include credentials, private financial information, or production secrets
 ## License
 
 A license has not yet been specified. Add an appropriate open-source license before granting others permission to reuse or redistribute the code.
+
 
 ---
 
